@@ -165,3 +165,23 @@ font-size:15spx;
 .project h1{
   margin-bottom: 30px;
 }
+.jx-left{
+  display:block;
+  float: left;
+  width: 105px;
+  height: 240px;
+  border-radius: 0;
+  position: fixed;
+  left: 0;
+  top: 200px;
+}
+.jx-right{
+  display:block;
+  float: right;
+  border-radius:0;
+  width: 105px;
+  height: 240px;
+  position: fixed;
+  right: 0;
+  top: 200px;
+}
