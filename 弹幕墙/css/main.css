@@ -1,0 +1,18 @@
+.jumbotron{
+  height: 400px;
+  margin-top: 20px;
+  position:relative;
+}
+#speak{
+  width:500px;
+  margin-left:330px;
+}
+
+.Button{
+  margin-left: 390px;
+  margin-top: 10px;
+}
+.btn-default{
+  width: 180px;
+  color: red;
+}
