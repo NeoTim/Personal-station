@@ -1,7 +1,9 @@
+
 .jumbotron{
   height: 400px;
   margin-top: 20px;
-  position:relative;
+  position: relative;
+  overflow: hidden;
 }
 #speak{
   width:500px;
